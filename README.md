@@ -11,7 +11,7 @@ The implementation supports type hints and is statically typed, linted using pyl
 
 ## Running the code
 
-To run the code, simply call the script like below:
+To run the code, simply clone the repo and call the script like below:
 ```bash
 $ python __main__.py
 ```
@@ -26,7 +26,7 @@ As per the requirements, there is a default `/total` path OR endpoint. By visiti
 
 ```json
 {
-	"total": SUM OF NUMBERS
+	"total": 6
 }
 ```
 
